@@ -10,3 +10,6 @@ Then, using the event listener in the html, a final function called "optionchang
 
 Author: 
 👤 Stephano Castro
+
+Github: https://github.com/castrostephano
+LinkedIn: https://www.linkedin.com/in/stephanocastro/
